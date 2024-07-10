@@ -6,7 +6,7 @@ import Typography from "./Typography";
 import ProductHeroLayout from "./ProductHeroLayout";
 
 const backgroundImage =
-  "https://images.unsplash.com/photo-1551672746-89991811c186?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=80";
+  "https://images.unsplash.com/photo-1686170287433-c95faf6d3608?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
 
 const styles = (theme) => ({
   background: {
@@ -40,7 +40,7 @@ function ProductHero(props) {
         alt="increase priority"
       />
       <Typography color="inherit" align="center" variant="h2" marked="center">
-        Stay Fit With Us
+        We Keep it Fair
       </Typography>
       <Typography
         color="inherit"
